@@ -401,4 +401,4 @@ function generateWaifu(aircraft) {
   };
 }
 
-export { generateWaifu, ARCHETYPES, AIRCRAFT };
+export { generateWaifu, ARCHETYPES };
