@@ -6,15 +6,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-Deploy directly to **GitHub Pages**:
-
-1. Fork or clone this repo
-2. Go to **Settings → Pages**
-3. Set source to `/ (root)` on `main`
-4. Done — your AircraftWaifu instance is live!
-
 ---
 
 ## ✨ Features
